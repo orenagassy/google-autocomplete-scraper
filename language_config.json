@@ -1,0 +1,14 @@
+{
+    "languages": {
+        "1": {
+            "code": "en",
+            "name": "English",
+            "rtl": false
+        },
+        "2": {
+            "code": "he",
+            "name": "Hebrew",
+            "rtl": true
+        }
+    }
+}
